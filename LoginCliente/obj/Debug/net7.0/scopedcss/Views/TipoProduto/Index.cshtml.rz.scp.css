@@ -1,0 +1,61 @@
+body[b-wo796rgfs8] {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container[b-wo796rgfs8] {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1[b-wo796rgfs8] {
+    color: #007bff;
+    text-align: center;
+    margin-top: 20px;
+}
+
+p[b-wo796rgfs8] {
+    text-align: center;
+}
+
+.table[b-wo796rgfs8] {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+    .table th[b-wo796rgfs8], .table td[b-wo796rgfs8] {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+    }
+
+    .table th[b-wo796rgfs8] {
+        background-color: #007bff;
+        color: #fff;
+    }
+
+    .table a[b-wo796rgfs8] {
+        color: #007bff;
+        text-decoration: none;
+        margin-right: 10px;
+    }
+
+        .table a:hover[b-wo796rgfs8] {
+            text-decoration: underline;
+        }
+
+    .table td:last-child a[b-wo796rgfs8] {
+        margin-right: 0;
+    }
+
+    .table tr:nth-child(even)[b-wo796rgfs8] {
+        background-color: #f9f9f9;
+    }
+
+    .table tr:hover[b-wo796rgfs8] {
+        background-color: #e1e1e1;
+    }

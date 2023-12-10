@@ -1,0 +1,80 @@
+body[b-yo8h3zw9wq] {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container[b-yo8h3zw9wq] {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1[b-yo8h3zw9wq] {
+    color: #28a745;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h4[b-yo8h3zw9wq] {
+    color: #555;
+}
+
+.row[b-yo8h3zw9wq] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.col-md-4[b-yo8h3zw9wq] {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-group[b-yo8h3zw9wq] {
+    margin-bottom: 20px;
+}
+
+label[b-yo8h3zw9wq] {
+    font-weight: bold;
+    display: block;
+}
+
+.form-control[b-yo8h3zw9wq] {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.btn-primary[b-yo8h3zw9wq] {
+    background-color: #28a745;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+    .btn-primary:hover[b-yo8h3zw9wq] {
+        background-color: #218838;
+    }
+
+a[b-yo8h3zw9wq] {
+    color: #007bff;
+    text-decoration: none;
+    display: block;
+    margin-top: 20px;
+}
+
+    a:hover[b-yo8h3zw9wq] {
+        text-decoration: underline;
+    }

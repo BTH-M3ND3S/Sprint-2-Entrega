@@ -1,0 +1,80 @@
+body[b-axjox2p6xa] {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container[b-axjox2p6xa] {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1[b-axjox2p6xa] {
+    color: #dc3545;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h3[b-axjox2p6xa] {
+    color: #555;
+    text-align: center;
+}
+
+h4[b-axjox2p6xa] {
+    color: #555;
+}
+
+.row[b-axjox2p6xa] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+dl[b-axjox2p6xa] {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+dt[b-axjox2p6xa], dd[b-axjox2p6xa] {
+    padding: 10px;
+}
+
+dt[b-axjox2p6xa] {
+    font-weight: bold;
+}
+
+form[b-axjox2p6xa] {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.btn-danger[b-axjox2p6xa] {
+    background-color: #dc3545;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+    .btn-danger:hover[b-axjox2p6xa] {
+        background-color: #c82333;
+    }
+
+a[b-axjox2p6xa] {
+    color: #007bff;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+    a:hover[b-axjox2p6xa] {
+        text-decoration: underline;
+    }

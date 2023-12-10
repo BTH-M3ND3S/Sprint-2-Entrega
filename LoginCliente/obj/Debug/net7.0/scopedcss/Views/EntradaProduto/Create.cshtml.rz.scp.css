@@ -1,0 +1,80 @@
+body[b-b15nc55iv6] {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container[b-b15nc55iv6] {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1[b-b15nc55iv6] {
+    color: #28a745;
+    text-align: center;
+    margin-top: 20px;
+}
+
+h4[b-b15nc55iv6] {
+    color: #555;
+}
+
+.row[b-b15nc55iv6] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.col-md-4[b-b15nc55iv6] {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-group[b-b15nc55iv6] {
+    margin-bottom: 20px;
+}
+
+label[b-b15nc55iv6] {
+    font-weight: bold;
+    display: block;
+}
+
+.form-control[b-b15nc55iv6] {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.btn-primary[b-b15nc55iv6] {
+    background-color: #28a745;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+    .btn-primary:hover[b-b15nc55iv6] {
+        background-color: #218838;
+    }
+
+a[b-b15nc55iv6] {
+    color: #007bff;
+    text-decoration: none;
+    display: block;
+    margin-top: 20px;
+}
+
+    a:hover[b-b15nc55iv6] {
+        text-decoration: underline;
+    }
